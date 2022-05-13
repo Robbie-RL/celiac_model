@@ -3,7 +3,6 @@
 ###############################
 
 library(bigsnpr)
-setwd("/Users/robryan/Desktop/masters_project/celiac_model")
 
 
 ##################################################
