@@ -2,7 +2,6 @@
 ## Celiac standard PRS model ##
 ###############################
 
-setwd("/Users/robryan/Desktop/masters_project/celiac_model")
 
 ###########################################
 ## Account for LD by performing clumping ##
